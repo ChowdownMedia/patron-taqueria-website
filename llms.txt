@@ -1,0 +1,17 @@
+# Patron Taqueria
+
+> Patron Taqueria — authentic Thai cuisine in Murfreesboro.
+
+## Pages
+
+- [Home](/)
+- [Drinks](/drinks/)
+- [Events](/events/)
+- [Menu](/menu/)
+- [Careers](/careers/)
+- [Become a VIP](/vip/)
+
+## Contact
+
+- Address: 1112 Dr. Martin Luther King Jr. Blvd, Murfreesboro, TN
+- Phone: (615) 624-8225
